@@ -1,0 +1,37 @@
+USER_DATA=[
+    {
+        username:"ayushh",
+        password:"abcdefg",
+        email:"ayushh@gmail.com",
+        clan:{
+            clan_name:"kukruxclan",
+            clan_level:"78",
+            clan_rank:"15",
+        },
+        exp:5
+    },{
+        username:"bobafett",
+        password:"123",
+        email:"bobafett@gmail.com",
+        clan:{
+            clan_name:"kukruxclan",
+            clan_level:"78",
+            clan_rank:"15",
+        },
+        exp:5
+    },{
+        username:"grogu",
+        password:"123",
+        email:"grogu@gmail.com",
+        clan:{
+            clan_name:"kukruxclan",
+            clan_level:"78",
+            clan_rank:"15",
+        },
+        exp:5
+    },
+]
+
+module.exports={
+    USER_DATA
+}
